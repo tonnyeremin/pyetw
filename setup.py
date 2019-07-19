@@ -14,7 +14,7 @@
 # limitations under the License.
 """Setup script for etw module."""
 import sys
-print sys.version
+
 
 from ez_setup import use_setuptools
 use_setuptools()
